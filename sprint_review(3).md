@@ -41,4 +41,4 @@ TOTAL: 0
 
 TOTAL: 0
 
-## Molts estan a zero perquè no s'han acceptat les seves PR dins del marc de l'Sprint 1. S'incluirà aquesta feina al Sprint 2. 
+Molts estan a zero perquè no s'han acceptat les seves PR dins del marc de l'Sprint 1. S'incluirà aquesta feina al Sprint 2. 
